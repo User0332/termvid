@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "termvid"
+version = "0.0.0"
+description = "A terminal-based video player implemented with python-ncurses"
+authors = [{name = "Carl Furtado", email = "carlzfurtado@gmail.com"}]
+license = {file = "LICENSE"}
+classifiers = ["License :: OSI Approved :: MIT License"]
+
+[project.urls]
+Home = "https://github.com/User0332/termvid"
