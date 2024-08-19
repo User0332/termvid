@@ -1,0 +1,8 @@
+__pycache__
+venv
+*.egg-info
+testfiles
+bin
+debug
+obj
+*.sln

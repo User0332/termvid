@@ -12,3 +12,7 @@ classifiers = ["License :: OSI Approved :: MIT License"]
 
 [project.urls]
 Home = "https://github.com/User0332/termvid"
+
+
+[project.scripts]
+termvid = "termvid.__main__:main"
